@@ -58,7 +58,7 @@
   <p>If you'd like to contribute or have suggestions, feel free to open an issue or submit a pull request.</p>
 
   <h2>License:</h2>
-  <p>This project is licensed under the [Your License].</p>
+  <p>This project is licensed under the MIT.</p>
 
 </body>
 </html>
